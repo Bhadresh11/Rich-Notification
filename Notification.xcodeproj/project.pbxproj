@@ -780,7 +780,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ebw.iosApp.PushNotificationServiceExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Demo.iosApp.PushNotificationServiceExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "a1235f0e-175a-4622-8403-7884036c0748";
 				PROVISIONING_PROFILE_SPECIFIER = "EBW Rich Noti Dev Shiv";
@@ -800,7 +800,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ebw.iosApp.PushNotificationServiceExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Demo.iosApp.PushNotificationServiceExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "a1235f0e-175a-4622-8403-7884036c0748";
 				PROVISIONING_PROFILE_SPECIFIER = "EBW Rich Noti Dev Shiv";
