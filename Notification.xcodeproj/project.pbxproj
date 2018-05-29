@@ -666,7 +666,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ebw.iosApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Demo.iosApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "06d2bda8-5415-42e1-877d-793ec4e7cba5";
 				PROVISIONING_PROFILE_SPECIFIER = "EBW Dev Shiv";
@@ -687,7 +687,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ebw.iosApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Demo.iosApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "06d2bda8-5415-42e1-877d-793ec4e7cba5";
 				PROVISIONING_PROFILE_SPECIFIER = "EBW Dev Shiv";
